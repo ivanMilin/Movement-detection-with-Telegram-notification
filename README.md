@@ -8,3 +8,6 @@
 - In case of motion detection, the edge device sends the video to the cloud (another Raspberry Pi), where the video is saved.
 - After detection, the second Raspberry Pi, which is in the role of Cloud, sends a push Telegram notification to my phone, so that I can access the recording via the Streamlit web application on the phone.
 - All Edge node related logic is implemented using C++ while all Cloud logic is implemented using Python.
+
+
+![de8fd726-4f84-4a3c-8be3-691e7b3b7c4d](https://github.com/user-attachments/assets/8dd4e156-6f2b-45ed-8177-d02726dba326)
